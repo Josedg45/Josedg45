@@ -39,3 +39,37 @@ class JoseDavidGomez:
             "Neonatal Incubator AI Model (Apnea Detection)",
             "IEEE Research - Dynamic Modeling & Control"
         ]
+```
+
+<div align="center">
+
+### 🌟 Core Competencies
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="60"/><br/>
+<b>Data Analysis</b><br/>
+SQL, Exploratory Data Analysis<br/>
+KPI Dashboards, Data Validation
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60"/><br/>
+<b>Applied Analytics</b><br/>
+Risk Modeling, Fraud Detection<br/>
+Feature Engineering, Predictive Models
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/database.png" width="60"/><br/>
+<b>Data Engineering & Quant Foundations</b><br/>
+ETL Design, Data Integrity Controls<br/>
+Cash Flow Modeling, Optimization
+</td>
+
+</tr>
+</table>
+
+---
