@@ -230,7 +230,6 @@ I'm actively seeking:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,100:2C5364" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=Josedg45&style=for-the-badge&color=blueviolet" alt="Profile views" />
 
 </div>
 # Josedg45
