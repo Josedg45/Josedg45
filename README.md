@@ -107,4 +107,81 @@ Cash Flow Modeling, Optimization
 ![MATLAB](https://img.shields.io/badge/MATLAB-Modeling-0076A8?style=for-the-badge)
 
 </div>
+
 ---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://streak-stats.demolab.com?user=Josedg45&theme=tokyonight&hide_border=true&background=0D1117&mode=daily&starting_year=2022&short_numbers=false" alt="GitHub streak stats" />
+
+</div>
+
+---
+
+## 🎯 Current Goals & Interests
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=950&lines=Focused+on+Data+Analytics+%26+Financial+Modeling;Building+the+Path+from+Data+Analyst+to+Quantitative+Professional" alt="Current goals typing" />
+
+<table>
+<tr>
+<td width="50%" align="left" valign="top">
+
+<h3>🚀 Current Goals</h3>
+
+<p><b>📊 Advanced Analytics in Finance</b></p>
+<ul>
+  <li>Build production-level <b>risk & fraud detection models</b>.</li>
+  <li>Develop scalable <b>forecasting systems (ARIMA & ML)</b> for financial data.</li>
+</ul>
+
+<p><b>📈 Quantitative Development</b></p>
+<ul>
+  <li>Strengthen foundations in <b>probability, statistics & optimization</b>.</li>
+  <li>Apply quantitative methods to <b>risk modeling and decision systems</b>.</li>
+</ul>
+
+<p><b>🎓 Academic Projection</b></p>
+<ul>
+  <li>Pursue a <b>Master’s in Quantitative Finance / Financial Engineering / Data Science</b>.</li>
+  <li>Publish technical work in <b>Quantitative Finance or Applied Machine Learning</b>.</li>
+</ul>
+
+</td>
+
+<td width="50%" align="left" valign="top">
+
+<h3>🔍 Main Interests</h3>
+
+<p><b>💰 Financial Risk & Modeling</b></p>
+<ul>
+  <li>Credit Risk, Market Risk & scenario evaluation.</li>
+  <li>Cash flow modeling & project finance analytics.</li>
+</ul>
+
+<p><b>📊 Statistical & Time-Series Analysis</b></p>
+<ul>
+  <li>Forecasting, ARIMA-based modeling & predictive systems.</li>
+  <li>Data-driven decision frameworks under uncertainty.</li>
+</ul>
+
+<p><b>🤖 Applied Machine Learning</b></p>
+<ul>
+  <li>Fraud detection & anomaly detection systems.</li>
+  <li>ML integration in financial decision pipelines.</li>
+</ul>
+
+<p><b>⚙️ Scalable Data Systems</b></p>
+<ul>
+  <li>Large-scale data processing (PySpark).</li>
+  <li>Automation & analytical workflows for finance.</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+</div>
