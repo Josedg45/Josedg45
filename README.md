@@ -185,3 +185,54 @@ Cash Flow Modeling, Optimization
 </table>
 
 </div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+
+I'm actively seeking:
+
+🔬 **Research & Technical Collaborations** in:
+- Financial Risk Modeling (Credit / Market / Scenario Analysis)
+- Applied Machine Learning for Finance
+- Time-Series Forecasting & Statistical Modeling
+- Large-Scale Data Analytics (PySpark / SQL)
+
+💼 **Professional Opportunities** in:
+- Data Analytics in Financial Institutions
+- Risk & Fraud Analytics
+- Quantitative Analyst (Junior / Transition Roles)
+- Financial Data Science
+
+📄 **Publishing & Academic Projects** in:
+- Quantitative Finance
+- Applied Machine Learning
+- Decision Systems under Uncertainty
+
+💬 **Open to discussing**:
+- Data-driven financial projects
+- Risk modeling frameworks
+- Research ideas & collaborations
+- Scalable analytics systems
+
+</div>
+
+---
+
+### 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-david-g-92981020b)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.gomez65@eia.edu.co)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7DD3FC,100:1E3A8A" width="100%"/>
+
+
+
+<img src="https://komarev.com/ghpvc/?username=Santiago23florido&style=for-the-badge&color=blueviolet" alt="Profile views" />
+
+</div>
+# Josedg45
