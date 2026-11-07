@@ -1,235 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=210&color=0:0F2027,100:2C5364&text=José%20David%20Gómez%20Bedoya&fontSize=48&fontColor=FFFFFF&stroke=1E3A8A&strokeWidth=2&animation=twinkling&fontAlignY=52" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:0F2027,100:2C5364&text=Jos%C3%A9%20David%20G%C3%B3mez%20Bedoya&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Mechatronics%20Engineer%20%C2%B7%20Data%20Science%20%C2%B7%20ML%20%C2%B7%20Quantitative%20Analysis&descSize=16&descAlignY=60" width="100%" alt="José David Gómez Bedoya" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+%26+Data+in+Finance;Machine+Learning+Engineer;Risk+%26+Fraud+Analytics;Quantitative+Modeling" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Risk+%26+Fraud+Analytics;Machine+Learning+for+Finance;Time-Series+%26+Quantitative+Modeling;From+control+systems+to+data+systems" alt="Typing animation" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-david-g-92981020b)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Josedg45)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&color=0:1e3c72,100:2a5298&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.gomez65@eia.edu.co)
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👋 About
 
-```python
-class JoseDavidGomez:
-    def __init__(self):
-        self.name = "José David Gómez Bedoya"
-        self.role = "AI & Data Engineer"
-        self.background = "Mechatronics Engineering"
-        self.location = "Medellín, Colombia 🇨🇴"
-        self.languages = ["Spanish (Native)", "English (C1)", "Mandarin (B1)"]
+Mechatronics engineer from Medellín, Colombia 🇨🇴, building a career at the intersection of **data science, machine learning and quantitative finance**. My engineering background in modeling and control gives me a systems mindset: I like turning noisy data into models that support real decisions.
 
-    def current_focus(self):
-        return {
-            "💰 Finance": ["Risk Modeling", "Fraud Detection", "AML"],
-            "🤖 AI": ["Machine Learning", "LLMs", "Agentic Systems (n8n)"],
-            "📊 Data": ["SQL", "Feature Engineering", "ETL Pipelines"],
-            "📈 Quant": ["Cash Flow Modeling", "Project Finance", "Optimization"]
-        }
+**Languages:** Spanish (native) · English (C1) · Mandarin (B1)
 
-    def experience(self):
-        return [
-            "Asset Management Analytics @ Bancolombia",
-            "Real-Time Data Monitoring @ Genius Sports",
-            "Neonatal Incubator AI Model (Apnea Detection)",
-            "IEEE Research - Dynamic Modeling & Control"
-        ]
-```
+## 🎯 What I Work On
+
+| | Focus | What it covers |
+|:-:|:--|:--|
+| 💰 | **Risk & Fraud Analytics** | Credit and market risk, fraud and anomaly detection, scenario evaluation |
+| 🤖 | **Applied Machine Learning** | Feature engineering, predictive models, LLMs and agentic automation (n8n) |
+| 📈 | **Quantitative Modeling** | Time-series forecasting (ARIMA & ML), cash flow modeling, optimization |
+| 🛠️ | **Data Engineering** | SQL, ETL pipelines, data validation, large-scale processing with PySpark |
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| [**fraud-detection**](https://github.com/Josedg45/fraud-detection) | End-to-end ML system for real-time fraud detection with an MLOps workflow and automated data validation (Pandera). | Python · scikit-learn · MLOps |
+| [**tahmo-solar-radiation-prediction**](https://github.com/Josedg45/tahmo-solar-radiation-prediction) | Solar radiation prediction from weather-station data. | Python · Jupyter |
+| [**Neonatal Incubator Dynamic Model & Control**](https://github.com/Josedg45/Neonatal-Incubator-Dynamic-Model-and-Control) | Thermodynamic modeling and temperature control (PID and incremental RST) of a neonatal incubator. Presented at IEEE 2025. | MATLAB |
+| [**MATLAB Neural Networks GUI**](https://github.com/Josedg45/MATLAB-Neural-Networks-GUI) | GUI to experiment with Perceptron, ADALINE and multilayer networks for classification, regression and adaptive filtering. | MATLAB |
+| [**DC Motor PID Control**](https://github.com/Josedg45/DC-Motor-PID-Control-with-Brake-Disturbance) | PID-controlled physical plant with state classification using concrete and fuzzy AI-based classifiers. | MATLAB |
+
+## 🧰 Tech Stack
 
 <div align="center">
 
-### 🌟 Core Competencies
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="60"/><br/>
-<b>Data Analysis</b><br/>
-SQL, Exploratory Data Analysis<br/>
-KPI Dashboards, Data Validation
-</td>
-
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60"/><br/>
-<b>Applied Analytics</b><br/>
-Risk Modeling, Fraud Detection<br/>
-Feature Engineering, Predictive Models
-</td>
-
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/database.png" width="60"/><br/>
-<b>Data Engineering & Quant Foundations</b><br/>
-ETL Design, Data Integrity Controls<br/>
-Cash Flow Modeling, Optimization
-</td>
-
-</tr>
-</table>
-
----
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 📊 Data Analysis & Large-Scale Processing
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-orange?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### 📈 Applied Analytics, ML & Time Series
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Time Series](https://img.shields.io/badge/Time%20Series-ARIMA%20%26%20Forecasting-blue?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Risk Analytics](https://img.shields.io/badge/Risk%20Modeling-Financial%20Analytics-darkgreen?style=for-the-badge)
-
-### 💰 Financial & Decision Systems
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Financial Modeling](https://img.shields.io/badge/Cash%20Flow-Project%20Finance-green?style=for-the-badge)
-![Optimization](https://img.shields.io/badge/Optimization-Decision%20Models-navy?style=for-the-badge)
-![SAP](https://img.shields.io/badge/SAP-Data%20Analytics-blue?style=for-the-badge)
-![Oracle Cloud](https://img.shields.io/badge/OCI-Cloud%20Infrastructure-red?style=for-the-badge)
-
-### ⚙️ Engineering & Deployment
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Agentic%20Automation-orange?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-Modeling-0076A8?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square)
 
 </div>
 
----
+## 💼 Experience Highlights
 
-## 📊 GitHub Statistics
+- **Asset Management Analytics** · Bancolombia
+- **Real-Time Data Monitoring** · Genius Sports
+- **Neonatal Incubator AI Model** · apnea detection
+- **IEEE Research** · dynamic modeling & control
 
-<div align="center">
+## 🎓 Where I'm Heading
 
-<img height="170" src="https://streak-stats.demolab.com?user=Josedg45&theme=tokyonight&hide_border=true&background=0D1117&mode=daily&starting_year=2022&short_numbers=false" alt="GitHub streak stats" />
+- Build production-level **risk and fraud detection models** and scalable **forecasting systems**.
+- Strengthen foundations in **probability, statistics and optimization**.
+- Pursue a **Master's in Quantitative Finance, Financial Engineering or Data Science**, and publish applied work.
 
-</div>
+## 🤝 Open To
 
----
+**Roles:** data analytics, risk & fraud analytics, junior quantitative analyst, financial data science.
+**Collaboration:** research and technical projects in financial risk, applied ML and time-series modeling.
 
-## 🎯 Current Goals & Interests
+If any of this sounds relevant, reach out through [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-david-g-92981020b) or [email](mailto:jose.gomez65@eia.edu.co).
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=950&lines=Focused+on+Data+Analytics+%26+Financial+Modeling;Building+the+Path+from+Data+Analyst+to+Quantitative+Professional" alt="Current goals typing" />
-
-<table>
-<tr>
-<td width="50%" align="left" valign="top">
-
-<h3>🚀 Current Goals</h3>
-
-<p><b>📊 Advanced Analytics in Finance</b></p>
-<ul>
-  <li>Build production-level <b>risk & fraud detection models</b>.</li>
-  <li>Develop scalable <b>forecasting systems (ARIMA & ML)</b> for financial data.</li>
-</ul>
-
-<p><b>📈 Quantitative Development</b></p>
-<ul>
-  <li>Strengthen foundations in <b>probability, statistics & optimization</b>.</li>
-  <li>Apply quantitative methods to <b>risk modeling and decision systems</b>.</li>
-</ul>
-
-<p><b>🎓 Academic Projection</b></p>
-<ul>
-  <li>Pursue a <b>Master’s in Quantitative Finance / Financial Engineering / Data Science</b>.</li>
-  <li>Publish technical work in <b>Quantitative Finance or Applied Machine Learning</b>.</li>
-</ul>
-
-</td>
-
-<td width="50%" align="left" valign="top">
-
-<h3>🔍 Main Interests</h3>
-
-<p><b>💰 Financial Risk & Modeling</b></p>
-<ul>
-  <li>Credit Risk, Market Risk & scenario evaluation.</li>
-  <li>Cash flow modeling & project finance analytics.</li>
-</ul>
-
-<p><b>📊 Statistical & Time-Series Analysis</b></p>
-<ul>
-  <li>Forecasting, ARIMA-based modeling & predictive systems.</li>
-  <li>Data-driven decision frameworks under uncertainty.</li>
-</ul>
-
-<p><b>🤖 Applied Machine Learning</b></p>
-<ul>
-  <li>Fraud detection & anomaly detection systems.</li>
-  <li>ML integration in financial decision pipelines.</li>
-</ul>
-
-<p><b>⚙️ Scalable Data Systems</b></p>
-<ul>
-  <li>Large-scale data processing (PySpark).</li>
-  <li>Automation & analytical workflows for finance.</li>
-</ul>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🤝 Let's Collaborate!
-
-<div align="center">
-
-I'm actively seeking:
-
-🔬 **Research & Technical Collaborations** in:
-- Financial Risk Modeling (Credit / Market / Scenario Analysis)
-- Applied Machine Learning for Finance
-- Time-Series Forecasting & Statistical Modeling
-- Large-Scale Data Analytics (PySpark / SQL)
-
-💼 **Professional Opportunities** in:
-- Data Analytics in Financial Institutions
-- Risk & Fraud Analytics
-- Quantitative Analyst (Junior / Transition Roles)
-- Financial Data Science
-
-📄 **Publishing & Academic Projects** in:
-- Quantitative Finance
-- Applied Machine Learning
-- Decision Systems under Uncertainty
-
-💬 **Open to discussing**:
-- Data-driven financial projects
-- Risk modeling frameworks
-- Research ideas & collaborations
-- Scalable analytics systems
-
-</div>
-
----
-
-### 📫 Get in Touch
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-david-g-92981020b)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.gomez65@eia.edu.co)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,100:2C5364" width="100%"/>
-
-
-</div>
-# Josedg45
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F2027,100:2C5364" width="100%" alt="" />
