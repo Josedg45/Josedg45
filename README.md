@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:0F2027,100:2C5364&text=Jos%C3%A9%20David%20G%C3%B3mez%20Bedoya&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Mechatronics%20Engineer%20%C2%B7%20Automation%20%C2%B7%20IoT%20%C2%B7%20Robotics&descSize=16&descAlignY=60" width="100%" alt="José David Gómez Bedoya" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Industrial+Automation+%26+IoT;Embedded+Systems+%28ESP32+%C2%B7+Arduino%29;Control+%26+Robotics;Renewable+Energy+Systems" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Automation+%26+IoT;Embedded+Systems+%28ESP32+%C2%B7+Arduino%29;Control+%26+Robotics;Renewable+Energy+Systems" alt="Typing animation" />
 
 <br/>
 
@@ -15,21 +15,78 @@
 
 ## 👋 About
 
-Mechatronics engineer from **Universidad EIA** (Medellín, Colombia 🇨🇴). I work in **automation and IoT** at **Omniquímica**, a chemicals company, connecting machines, sensors and data to make industrial processes more reliable and visible.
-
-I'm especially interested in **robotics, renewable energy and embedded systems**, and I'm currently learning **PCB design** to take my projects from prototype to custom hardware.
+Mechatronics engineer from **Universidad EIA** (Medellín, Colombia 🇨🇴) focused on **automation, IoT and robotics**. I like connecting machines, sensors and data to build systems that are reliable, measurable and easy to scale. I'm also interested in **renewable energy** and currently learning **PCB design** to take projects from prototype to custom hardware.
 
 **Languages:** Spanish (native) · English (C1)
 
-## 🎯 What I Work On
+---
 
-| | Focus | What it covers |
-|:-:|:--|:--|
-| ⚙️ | **Automation** | Process automation and monitoring in an industrial environment |
-| 📡 | **IoT & Embedded** | ESP32 and Arduino firmware, sensors, connected devices |
-| 🤖 | **Control & Robotics** | PID control, dynamic modeling, intelligent classifiers |
-| ☀️ | **Renewable Energy** | Data-driven analysis of solar resources and energy systems |
-| 🔌 | **Hardware Design** | PCB design (learning) |
+<div align="center">
+
+### 🌟 Core Competencies
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/combo-chart.png" width="60"/><br/>
+<b>Control & Modeling</b><br/>
+Dynamic Modeling, PID/RST Control<br/>
+Thermodynamics, Fuzzy Classifiers
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60"/><br/>
+<b>ML & Data Analysis</b><br/>
+Time-Series Forecasting<br/>
+Neural Networks, Feature Engineering
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/robot-2.png" width="60"/><br/>
+<b>Automation & Embedded</b><br/>
+Industrial Automation, IoT Systems<br/>
+ESP32 & Arduino, PCB Design (learning)
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎛️ Control, Modeling & Data
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🤖 Machine Learning & AI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🔌 Embedded, IoT & Automation
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -40,25 +97,13 @@ I'm especially interested in **robotics, renewable energy and embedded systems**
 | [**tahmo-solar-radiation-prediction**](https://github.com/Josedg45/tahmo-solar-radiation-prediction) | Solar radiation prediction from weather-station data. | Python · Jupyter |
 | [**MATLAB Neural Networks GUI**](https://github.com/Josedg45/MATLAB-Neural-Networks-GUI) | GUI to experiment with Perceptron, ADALINE and multilayer networks for classification, regression and adaptive filtering. | MATLAB |
 
-## 🧰 Tech Stack
+---
 
-<div align="center">
+## 🏆 Highlights
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
-![IoT](https://img.shields.io/badge/IoT-Sensors%20%26%20Connectivity-2C5364?style=flat-square)
-![Control](https://img.shields.io/badge/Control-PID%20%26%20RST-2C5364?style=flat-square)
-![PCB](https://img.shields.io/badge/PCB%20Design-Learning-555555?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
-## 💼 Experience Highlights
-
-- **Automation & IoT** · Omniquímica
 - **IEEE Research** · dynamic modeling and control of a neonatal incubator
+
+---
 
 ## 🤝 Let's Connect
 
